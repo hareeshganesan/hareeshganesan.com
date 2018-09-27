@@ -2,8 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR|Raleway');
+
+h2 {
+    font-family: 'Noto Serif KR', sans-serif;
+    font-weight: 600;
+}
 
 body {
-    font-family: 'Noto Serif KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
