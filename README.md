@@ -9,4 +9,4 @@ I like talking about:
 - music
 - startup operations
 
-If you do too, shoot me a note at hi [at] hareeshganesan.com, or @hareeshganesan[https://www.twitter.com/hareeshganesan]
+If you do too, shoot me a note at hi [at] hareeshganesan.com, or [@hareeshganesan][https://www.twitter.com/hareeshganesan]
