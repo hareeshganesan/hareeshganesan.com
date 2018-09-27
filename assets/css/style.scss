@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR');
+
 body {
-    color: red !important;
+    font-family: 'Noto Serif KR', sans-serif;
 }
