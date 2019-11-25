@@ -1,6 +1,6 @@
 ## Hi, I'm Hareesh. 
 
-I'm based in Philadelphia. I'm a product manager at Amazon PillPack, helping build the world's most customer-centric pharmacy. 
+I'm based in Boston. I'm a product manager at Amazon PillPack, helping build the world's most customer-centric pharmacy. 
 
 Previously, I cofounded [Fellow](https://myfellow.com) (formerly TowerView Health), where I worked with amazing people building products and services for patients to manage medications. I started my career in strategy consulting at [Applied Predictive Technologies](https://www.predictivetechnologies.com/en), working with businesses set up and evaluate controlled experiments in sectors like retail, telecom, and banking.
 
