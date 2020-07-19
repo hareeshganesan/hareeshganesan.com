@@ -13,4 +13,8 @@ I'm interested in learning about:
 
 For fun, I write and perform music, and like to build side projects.
 
+### Projects
+
+[Longtweets](https://longtweetsapp.com) - Book recommendations from people you trust and follow
+
 Shoot me a note at hareesh.ganesan [at] gmail.com, or [@hareeshganesan](https://www.twitter.com/hareeshganesan). 
