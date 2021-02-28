@@ -1,4 +1,5 @@
 ## Hi, I'm Hareesh. 
+![](image.png)
 
 I'm a product manager at [Amazon Pharmacy](https://pharmacy.amazon.com/), helping build the world's most customer-centric pharmacy. 
 
