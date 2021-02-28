@@ -1,5 +1,5 @@
 ## Hi, I'm Hareesh. 
-![](image.png)
+![](https://github.com/hareeshganesan/hareeshganesan.com/blob/master/assets/undefined_agadngeaar7c4uu.png)
 
 I'm a product manager at [Amazon Pharmacy](https://pharmacy.amazon.com/), helping build the world's most customer-centric pharmacy. 
 
