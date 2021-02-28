@@ -10,7 +10,7 @@ I'm interested in learning about:
 - how to make healthcare better
 - music and the Internet
 - product management 
-- operations
+- ops-centric businesses (atoms not bits)
 
 For fun, I write and perform music, and like to build side projects.
 
