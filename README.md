@@ -7,7 +7,6 @@ Before that, I helped launch [Amazon Pharmacy](https://pharmacy.amazon.com/), he
 I'm interested in learning about:
 - music and the Internet
 - ops-centric businesses (atoms not bits)
-- how to make healthcare better
 - product management 
 
 For fun, I write and perform music, and like to build side projects.
