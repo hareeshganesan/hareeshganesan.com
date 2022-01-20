@@ -1,8 +1,8 @@
 ## Hi, I'm Hareesh. 
 
-I'm a product manager at Deliveroo, where I build technology to make sure people get their food delivered hot, on-time, and fast.
+I'm a product manager at [Deliveroo](https://deliveroo.co.uk/), where I build technology to make sure people get their food delivered hot, on-time, and fast.
 
-Before that, I helped launch [Amazon Pharmacy](https://pharmacy.amazon.com/), helping build the world's most customer-centric pharmacy, and also cofounded [Fellow](https://myfellow.com) (formerly TowerView Health), where I worked with amazing people building products and services for patients to manage medications. I started my career in strategy consulting at [Applied Predictive Technologies](https://www.predictivetechnologies.com/en), working with businesses set up and evaluate controlled experiments in sectors like retail, telecom, and banking.
+Before that, I helped launch [Amazon Pharmacy](https://pharmacy.amazon.com/), helping build the world's most customer-centric pharmacy, and also co-founded a hardware startup [Fellow](https://myfellow.com) (formerly TowerView Health) where I worked with amazing people on products to help patients to manage medications. I started my career in strategy consulting at [Applied Predictive Technologies](https://www.predictivetechnologies.com/en), helping businesses set up and evaluate controlled experiments in sectors like retail, telecom, and banking.
 
 I'm interested in learning about:
 - music and the Internet
