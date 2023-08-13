@@ -1,7 +1,3 @@
----
-layout: main
----
-
 ## Hi, I'm Hareesh. 
 
 I'm a product manager at [Deliveroo](https://deliveroo.co.uk/), where I build technology to make sure people get their food delivered hot, on-time, and fast.
