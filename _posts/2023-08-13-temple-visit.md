@@ -12,7 +12,7 @@ I’d venture that for many Hindus, the temple has to have a certain physical pr
 
 I think this is partially because none of us have a clue what’s being said! There are no sermons. There aren’t even specific timings to attend. The services are in an ancient language that very few have studied, and the prayers performed in the temple don’t include parables to learn from or analyze. 
 
-This is not the way many other religions work - Bible studies and weekly services at Synagogue are held in native languages taught in lucid ways. There are rarely idols or stations to focus on the physical. I don’t really know what resonates with other religious people but at least based on what I’ve experienced, it’s not nearly as sensory. 
+This is not the way many other religions work - Bible studies and weekly services at Synagogue often have at least some portion held in native languages taught in lucid ways. There are rarely idols or stations to focus on the physical. I don’t really know what resonates with other religious people but at least based on what I’ve experienced, it’s not nearly as sensory. 
 
 But I think the reliance on the physical, versus the reasonable, is a feature, not a bug. Visiting temples with religious intent forces you to grapple with things that are unknowable but present - because that’s all there is to hold onto. When I attend, I find myself alone, engaged in a dialogue and a language of my choice, walking around various shrines, with the God in front of me. While this sort of dialogue happens in many religious places, what’s interesting is that it seems like the Hindu practice relies entirely on physicality and private quiet to work.
 
