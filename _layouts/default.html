@@ -23,19 +23,6 @@
       {{ content }}
 
       </section>
-
-      <section>
-        <h2>Posts</h2>
-        <ul>
-          {% for post in site.posts %}
-          {% if post.private != true %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-      </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
