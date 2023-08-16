@@ -5,7 +5,8 @@ title:  "Subscriptions in the future"
 
 Recently, I found a clever [paper](https://www.nber.org/papers/w31547) by Einav, Klopack, and Mahoney about consumer behavior around cancelling subscriptions that struck a chord.  I always fall for subscriptions - I'm a sucker for getting a recurring service handled for me in perpetuity. But the other shoe always drops when my house fills up with piles of unused paper towels, or worse, my bank account gets quietly drained by yet another TV subscription. 
 
-In this paper, the researchers estimated that companies selling subscriptions for digital products made between 14% and 200% more revenue from their current consumers than they would have if the consumer cancelled subscriptions immediately after they stopped using them. To assess this, they used the fact rhat consumers have to update card details when credit cards expire, and they tracked whether the subscriptions ended up on the transaction history after an expiration (pretty clever!).   
+In this paper, the researchers estimated that companies selling subscriptions for digital products made between 14% and 200% more revenue from their current consumers than they would have if the consumer cancelled subscriptions immediately after they stopped using them. To assess this, they tracked whether the subscriptions ended up on the transaction history after credit card expiration since updating card details is an active choice (pretty nifty methodology).   
+
 The conclusions aren’t surprising, but the magnitudes are! Consumer businesses spend a lot of money chasing a percentage point of growth (re: how I spent the first half of 2023) so 14-200% would be growth that would be really hard to replace. But the implications for consumers are concerning, because this benefit incentivizes sellers to quietly disappear rather than constantly generating more value. 
 
 ## So what could the company do instead? ##
