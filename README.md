@@ -1,6 +1,6 @@
 ## Hi, I'm Hareesh. 
 
-I help build products and services, mostly for consumers. Usually things in the home (food, medications). For fun, I write and perform music, and like to build side projects. 
+I help build products and services, mostly for consumers, at companies like Deliveroo and Amazon. Mostly they're services to put things in homes (food, medications). For fun, I write and perform music, and like to build side projects. 
 
 ### Projects
 
