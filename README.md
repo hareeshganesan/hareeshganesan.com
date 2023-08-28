@@ -10,6 +10,6 @@ I help build products and services, mostly for consumers, at companies like Deli
 
 ### Writing
 - [Subscriptions in the future](https://hareeshganesan.com/2023/08/16/subscriptions)
-- [AIs to sweating the details](https://hareeshganesan.com/2023/08/28/details)
+- [Sweating the details](https://hareeshganesan.com/2023/08/28/details)
 
 Shoot me a note at hareesh.ganesan [at] gmail.com, or [@hareeshganesan](https://www.twitter.com/hareeshganesan). 
