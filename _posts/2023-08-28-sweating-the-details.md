@@ -1,0 +1,50 @@
+
+---
+layout: post
+title:  "Sweating the details"
+---
+
+Throughout my career, I’ve worked across product teams of smart people solving hard problems. In every case of a very high performing team, there's an "unblocker" who is helping make sure the team operates at high quality. Through their inputs, things get decided faster, there’s fewer re-litigations, and more shipping.  These people “sweat the details” so that customers get the product they actually needed, and teams get to focus on the business of building. 
+
+Sometimes product managers fill this role, other times it’s a lead in some discipline, but you can usually tell when one of these people shows up. Usually though, there’s not enough people like this to go around, and work starts to stall or innovation falls by the wayside. Now, some conflict resolution is challenging and nuanced. But a lot of it is, very much, scheduling the meetings that have to exist, and following up on the comments that need to be resolved. There are a laundry list of ways an initiative or proposal can fail, and there’s usually only humans in the way to stop it. 
+
+At big enough companies, we’ve evolved pyramids of decision makers who may challenge and bring different viewpoints to a decision, and armies of people are then hired to sweat all the details. Getting time to get all the approvals in place becomes a whole cottage industry within the company that results in massive inertia. But also, without some of the feedback that comes from those processes, teams spend years building the wrong thing. 
+
+### In numbers
+* A 4 person engineering team that’s spent a year building something that’s obsolete is a $1MM error
+* Losing 3 months on approvals could wipe out $250K in efficiency.
+
+## A way forward
+I’d argue that LLMs or some future version of them could become ways for people scale themselves and catch the details that might wreck the plan. Think “Community Notes” but for the enterprise Slack. Quality control is a helpful way of making progress quickly - and this idea is modeled after all the many industries (medicine, construction, engineering) where the checklist is essential to high risk, high quality operations.
+
+### What could this look like
+- The agent is provisioned with access to relevant docs and channels. 
+- This time, the AI is flags when there's ambiguity in how something is worded (e.g. saying a team will get something done without specifying a timeline) or something is incorrect
+- The AI can review plans in documents and Slack messages to check for common failure modes
+- The AI can monitor document comments and make sure the most important ones get resolved. Over time, it can suggest the resolutions themselves
+- The AI can set up meetings or threads to resolve errors or ambiguities
+- A human on any team can ask an AI to provide a status update and a summary of the challenges for a topic in a plan or a document
+- A human can ask AI to review and suggest common reasons the plan could fail, based on failures from within the company
+
+### Under the hood
+- The AI learns which warnings were helpful and which ones weren’t by examining whether humans make changes based on those monitors
+- The AI has a configurable set of "issues" that it's looking for
+- The AI can learn from document comments to show types of errors that members of the organisation most commonly identify
+
+## Why won’t this work
+
+### 1. “I’m never going to switch to another piece of software”
+The biggest drawback for an AI critic is that it needs to exist within the tools where people collaborate. Generation is sometimes a good enough excuse to get someone to switch to a different software tool, but spellcheck hasn’t been a killer feature thus far. Tools like Slack and Teams often offer APIs to get access to data, and companies often rely on tools built on top, but still, what’s to stop a platform from coming in and filling this role? 
+
+I’m not sure, but I think there’s an open question of whether large players will want to execute fast enough to fill this gap. There’s huge markets to go after first - like automated engineering and automated customer care - even if these markets are addressed by a race to the bottom in commodity models. However, I think that higher order activities are valuable even as these functions get commoditized. On a 5 year time horizon, it’s hard to believe we’ll only have automated care and engineering. 
+
+### 2. “The warnings aren’t relevant”
+Models need access to internal data. Unfortunately, humans glue business communications together, and products may have to work across video, text, and in person discussions to get the context they need.  Further, permissions are often critical to company operations — LLMs can’t leak confidential context.
+
+To solve this today, many companies have adopted a local private model. These approaches allow an AI to act as an “assistant for one” that can perform tasks by recording the user’s screen and audio to eliminate the need for integration. Companies like Rewind and Embra have chosen approaches like this. But like all other enterprise software tools, I expect collaboration will become a baseline feature in AI. The infrastructure to support shared data access is coming. Microsoft Copilot introduces a new “semantic index” designed to help power this type of search. This type of infra just makes sense - AIs need the same sort of permission framework that a user does i’m order to participate in the workforce.
+
+### 3. “I want automation, not error checking”
+The AI future we’ve been promised has armies of agents that do everything for us so we can live in abundance. I too want this world to exist, but our agents today have trained off all the things that have ever existed, alongside massive amounts of human feedback, and they still require massive amounts of feedback. The path to automated agents in the workplace requires those agents to be able to pick up the task in a few rounds of feedback, and I think this will require innovation around how machines adapt to human-in-the-loop feedback. AI will still create MASSIVE change in the areas of knowledge work that can be purely automated, but frankly, many of those areas were already automatable today with sufficient effort.
+
+## So what happens next?
+As more and more work product becomes accessible to models, I think we'll start to see opportunities to learn from the digital interactions already happening in the workplace to create models that augment our critical thinking, instead of just automating work product. In the mean time, I'll be making checklists of my own to see if they can reliably uplevel the work that I do.
