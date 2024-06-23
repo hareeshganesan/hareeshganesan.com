@@ -15,7 +15,8 @@ I've been using AI assistance to program side projects for about 2 years (since 
 ## What I wanted ##
 I've been wanting to reduce my screen time because my 9-month-old has already realised iPhones are the world's best toy (re: drug). Apple's Screen Time feature is nifty, but I struggle with how it categorises usage - I don't really count screen time for Apple Maps when I'm traveling somewhere, but I don't want to accidently spend a lot of time on social media. And because I moonlight as a product manager, I love a good metric.
 
-So I decided to make a screen time dashboard to track my usage of only apps I deemed "unnecessary" and bake in some goal tracking that Screentime won't support. I felt this was a good project for Claude. I did some research and found that Apple syncs data to Macs in the knowledgeC.db. I decided to used Streamlit for the interface, and query data from knowledgeC.db. I chose to set up a virtualenv in Python to keep things tidy.
+So I decided to make a screen time dashboard to track my usage of only apps I deemed "unnecessary" and bake in some goal tracking that Screentime won't support. I felt this was a good project for Claude. I did some research and found that Apple syncs data to Macs in the knowledgeC.db. I decided to used Streamlit for the interface, and query data from knowledgeC.db. I chose to set up a virtualenv in Python to keep things tidy. I chose all of these ahead of time, so I don't know if Claude would have helped
+make a good choice here.
 
 I found an [article](https://felixkohlhas.com/projects/screentime/) and copied out the query as source material (Thanks Felix!). I then asked Claude help. In ~2 hours, I made [this dashboard](https://www.loom.com/share/9e10d9107c204419be00d6c90b217060) and produced this [repo](https://github.com/hareeshganesan/screentime-goal-tracker). Here's a Claude-generated summary of what it does:
 - Daily screen time and pickup trends visualization
