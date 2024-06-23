@@ -17,7 +17,7 @@ I've been wanting to reduce my screen time because my 9-month-old has already re
 
 So I decided to make a screen time dashboard to track my usage of only apps I deemed "unnecessary" and bake in some goal tracking that Screentime won't support. I felt this was a good project for Claude. I did some research and found that Apple syncs data to Macs in the knowledgeC.db. I decided to used Streamlit for the interface, and query data from knowledgeC.db. I chose to set up a virtualenv in Python to keep things tidy.
 
-I found an [article](https://felixkohlhas.com/projects/screentime/) and copied out the query as source material (Thanks Felix!). I then asked Claude help. In ~2 hours, I made [this dashboard](https://www.loom.com/share/9e10d9107c204419be00d6c90b217060) [repo](https://github.com/hareeshganesan/screentime-goal-tracker). Here's a Claude generated summary of what it does:
+I found an [article](https://felixkohlhas.com/projects/screentime/) and copied out the query as source material (Thanks Felix!). I then asked Claude help. In ~2 hours, I made [this dashboard](https://www.loom.com/share/9e10d9107c204419be00d6c90b217060) and produced this [repo](https://github.com/hareeshganesan/screentime-goal-tracker). Here's a Claude-generated summary of what it does:
 - Daily screen time and pickup trends visualization
 - Unnecessary screen time tracking
 - Goal achievement display
@@ -25,7 +25,7 @@ I found an [article](https://felixkohlhas.com/projects/screentime/) and copied o
 - Suggestions for alternative activities when screen time goals are exceeded
 
 ## What I learned ##
-Claude 3.5 is a marked step up in a couple noticeable ways. I used Claude exclusively to get what I wanted - I wasn't trying to trip it up so take my experience with a grain of salt. Here's what I liked:
+Claude 3.5 is a clear step up from anything I've used to date. I used Claude exclusively to get what I wanted - I wasn't trying to trip it up so take my postive experiences with a grain of salt. Here's what I liked:
 * **Run-time failure are flippening**: Run-time failures are an exception not a rule. Only 17% of the generations (4 out of 23) ended in errors. In contrast, I'd guesstimate that 40-50% of what I used to get from an LLM I'd need to fix or pass back to the model for error handling. 
 * **From intern to product engineer**: I was very rarely let down by the metrics and visualisations it produced. It felt like working with a competent analyst. I didn't have to ask twice for a given metric, which meant I spent most of the time iterating to the dashboard and metrics __that I found valuable__ instead of spelling things out in more and more detail for a model.
 * **Requirements, not code**: I didn't feel the need to rewrite the code in order to get functionality I wanted. In the end, I write ~550 words of requirements through back and forth discussion, with lots of copying and pasting. Claude produced ~310 lines of code that made those requirements real.
