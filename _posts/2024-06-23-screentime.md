@@ -25,6 +25,8 @@ I found an [article](https://felixkohlhas.com/projects/screentime/) and copied o
 - Detailed app usage breakdown
 - Suggestions for alternative activities when screen time goals are exceeded
 
+[[https://cdn.loom.com/sessions/thumbnails/9979506e076a44f8ad371f89e6e160de-with-play.gif|Demo]]
+
 ## What I learned ##
 Claude 3.5 is a clear step up from anything I've used to date. I used Claude exclusively to get what I wanted - I wasn't trying to trip it up so take my postive experiences with a grain of salt. Here's what I liked:
 * **Fewer run-time failure change the experience**: Run-time failures are an exception not a rule. Only 17% of the generations (4 out of 23) ended in errors. In contrast, I'd guesstimate that 40-50% of what I used to get from an LLM I'd need to fix or pass back to the model for error handling. 
