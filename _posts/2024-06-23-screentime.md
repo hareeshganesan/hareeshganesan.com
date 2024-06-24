@@ -18,14 +18,15 @@ I've been wanting to reduce my screen time because my 9-month-old has already re
 So I decided to make a screen time dashboard to track my usage of only apps I deemed "unnecessary" and bake in some goal tracking that Screentime won't support. I felt this was a good project for Claude. I did some research and found that Apple syncs data to Macs in the knowledgeC.db. I decided to used Streamlit for the interface, and query data from knowledgeC.db. I chose to set up a virtualenv in Python to keep things tidy. I chose all of these ahead of time, so I don't know if Claude would have helped
 make a good choice here.
 
-I found an [article](https://felixkohlhas.com/projects/screentime/) and copied out the query as source material (Thanks Felix!). I then asked Claude help. In ~2 hours, I made [this dashboard](https://www.loom.com/share/9e10d9107c204419be00d6c90b217060) and produced this [repo](https://github.com/hareeshganesan/screentime-goal-tracker). Here's a Claude-generated summary of what it does:
+I found an [article](https://felixkohlhas.com/projects/screentime/) and copied out the query as source material (Thanks Felix!). I then asked Claude help. In ~2 hours, I made [this dashboard](https://www.loom.com/share/9979506e076a44f8ad371f89e6e160de?sid=e2888a7c-17de-4941-8d14-73e45e34b551) and produced this [repo](https://github.com/hareeshganesan/screentime-goal-tracker). Here's a Claude-generated summary of what it does:
 - Daily screen time and pickup trends visualization
 - Unnecessary screen time tracking
 - Goal achievement display
 - Detailed app usage breakdown
-- Suggestions for alternative activities when screen time goals are exceeded
+- Suggestions for alternative activities when screen time goals are exceeded]
 
-[[https://cdn.loom.com/sessions/thumbnails/9979506e076a44f8ad371f89e6e160de-with-play.gif|Demo]]
+
+{% include loom-video.html id="9e10d9107c204419be00d6c90b217060" %}
 
 ## What I learned ##
 Claude 3.5 is a clear step up from anything I've used to date. I used Claude exclusively to get what I wanted - I wasn't trying to trip it up so take my postive experiences with a grain of salt. Here's what I liked:
