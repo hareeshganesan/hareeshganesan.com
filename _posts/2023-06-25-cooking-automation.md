@@ -19,8 +19,6 @@ private: true
 - What will change about distribution? Has it become infinite? What are the problems brands face?
 - How do **companies build value** in the food space.
 
-
-
 ### [Robotics, AI & High-Speed Convection Ovens Reign Supreme At NRA Show)](https://www.hngry.tv/articles/robotics-ai-high-speed-convection-ovens-take-over-nra-show/)
 
 - Reducing labor is still the primary focus. But at the store level, it creates value because you have actions that are repeated frequently. If the quality is good enough it is not a big deal.
