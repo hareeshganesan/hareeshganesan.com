@@ -18,9 +18,13 @@ In particular, I like to track these in Google Calendar, but I spend an inordina
 
 I asked Claude to help with the following:
 
-> You are an expert executive assistant engineer. You are going to help me manage my baby's schedule. To start with, can you help with the following: 1. Make a CSV of the schedule that I can upload to Google Sheets, 2. Given a Google sheet ID, write code that can create calendar invites from the schedule that is written in the format you select
+> You are an expert executive assistant engineer. You are going to help me manage my baby's schedule. To start with, can you help with the following: 1. Make a CSV of the schedule based on the image attached that I can upload to Google Sheets, 2. Given a Google sheet ID, write code that can create calendar invites from the schedule that is written in the format you select
 Assume I'm using Google Calendar. I want the calendar events to recur daily for a week.
 >
+
+I also attached just a image of the data I wanted to use.
+
+![Schedule](https://cdn.takingcarababies.com/containers/assets/10_month_old_sleep_schedule.png/e1ff426818653520bc215f05ff87d1fb.png)
 
 I followed up to add length as a parameter, add in a notes, and create another script to batch delete events.
 
@@ -30,7 +34,7 @@ The default experience is honestly excellent and doesn't merit too much discussi
 1. **Faster than manual**: Normally I'd include savings from future runs, but in this case I can say that Claude got the job done in parity or faster even on the first run.
 2. **Silent errors**: Zero. Once again, I spent my time iterating, not debugging code. And I found that Claude did what I told it to -- I didn't find any secret errors that meant I had to rethink the entire approach.
 
-And here's what I got out:
+And here's a calendar I produced, and the [repo](https://github.com/hareeshganesan/baby-calendars) that created it:
 ![Example calendar]({{ site.baseurl }}/assets/images/calendar.png)
 
 ## Meandering
