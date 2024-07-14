@@ -31,7 +31,7 @@ The default experience is honestly excellent and doesn't merit too much discussi
 2. **Silent errors**: Zero. Once again, I spent my time iterating, not debugging code. And I found that Claude did what I told it to -- I didn't find any secret errors that meant I had to rethink the entire approach.
 
 And here's what I got out:
-![Example calendar]({{ site.baseurl }}/images/calendar.png)
+![Example calendar]({{ site.baseurl }}/assets/images/calendar.png)
 
 ## Meandering
 This experience has prompted me to think a little about calendaring, project management, and integrations, as they're pretty common in the workplace and common to this task. 
