@@ -9,8 +9,9 @@ I help build products and services, mostly for consumers, at companies like Deli
 - Transcribe - A webapp to help people take time-tracked notes for online courses
 
 ### Writing
-- [Subscriptions in the future](https://hareeshganesan.com/2023/08/16/subscriptions)
+- [Calendars for babies, or, project management with AIs](https://hareeshganesan.com/2024/07/14/baby-calendar)
+- [Screentime reduction](https://hareeshganesan.com/2024/06/23/screentime)
 - [Sweating the details](https://hareeshganesan.com/2023/08/28/details)
-- [Screentime reduction with Claude 3.5](https://hareeshganesan.com/2024/06/23/screentime)
+- [Subscriptions](https://hareeshganesan.com/2023/08/16/subscriptions)
 
 Shoot me a note at hareesh.ganesan [at] gmail.com, or [@hareeshganesan](https://www.twitter.com/hareeshganesan). 
