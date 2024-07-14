@@ -4,11 +4,6 @@ title:  "If C3PO could cook"
 private: true
 ---
 
-
-
-
-
-
 ## Research
 
 ### Observations
@@ -18,6 +13,8 @@ private: true
 - We had a wave of startups that used human labor in order to complete certain tasks. We assumed at some point that automation would replace the commodity labor provided by those humans but it turns out that the cost of the machines continues to be higher than the cost of the humans - remember you have to __beat__ $15-20 / hour in order to make it worth it. 
 - Food startups these days revolve around business model innovation with 3 partners: fulfillment, food, and consumers. You can decide to be more or less involved in each stage.
 - Robot, not robot: When we talk about robots of the future, we're often talking about very general purpose task performing platforms of various shapes and sizes (e.g. Figure, or Tesla's Optimus). The robots that have succeeded thus far have been purpose built for specific applications  -- Kiva-style Roombas for the warehouse, or the mighty dishwasher. The automation in kitchens appears to be exclusively about the kitchen, where the jobs are indeed quite specific. 
+- I have no idea if the COGS are right -- but they don't seem terribly wrong. A $200 frame, $100 of sensors, and $300 of motors feels right. That makes this thing expensive - there isn't a mass market for a $4000 robot just to save an hour a day. And realistically it's hard for it to save an hour cooking a day. 
+- 
 
 # Home Cooking Robot Cost and Pricing Breakdown (3x COGS Model)
 
