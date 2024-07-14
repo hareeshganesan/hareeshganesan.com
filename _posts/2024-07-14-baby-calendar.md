@@ -34,7 +34,7 @@ And here's what I got out:
 ![Example calendar]({{ site.baseurl }}/assets/images/calendar.png)
 
 ## Meandering
-This experience has prompted me to think a little about calendaring, project management, and integrations, as they're pretty common in the workplace and common to this task. 
+This experience has prompted me to think a little about calendaring, project management, and integrations, as they're also pretty common activities in the workplace.
 
 TL;DR: I think there's a lot of untapped potential in using these AIs as project management tools -- discovering, and in some cases, automating away risks. I think there's probably a few techniques on the horizon that can make this possible. The capabilites of these AIs are truly bananas.
 

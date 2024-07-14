@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR|Raleway');
 
 h2 {
@@ -15,7 +12,7 @@ body {
 }
 
 section {
-    float:left;
+    float: left;
     width: 100%;
 }
 
@@ -27,6 +24,5 @@ footer {
 }
 
 img {
-    height: 2em;
     width: auto
 }
