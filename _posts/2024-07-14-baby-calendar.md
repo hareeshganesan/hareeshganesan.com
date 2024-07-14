@@ -58,15 +58,15 @@ Of course, learning one-shot and learning with even a few hundred aren't the sam
 
 In a past life I spent a load of time managing operational changes at companies with a lot of software and a lot of humans both experiencing and managing that change. I suspect however that that won't look the same 10 years from now.
 
-For example, let's use scanning bananas at a grocery store as a toy example:
+For example, let's use an operational change in scanning bananas at a grocery store as a toy example:
 1. The main inventory system might count each banana individually, because there's somehow there are people who really only want one banana. 
 2. The procurement system, however, orders bunches of bananas, and assumes there are 5 bananas in a bunch, because there's a supplier who sells bananas by the 5. 
 3. A brilliant store manager realises that they don't want packers in the store breaking down bunches of bananas only to have them go to waste.
 4. So the organisation decides to institute a "no banana left behind" policy, complete with engineering support to switch to a supplier who only sells single bananas. 
 
-This will require changing to a whole new inventory system, just for bananas, that than connects to the main inventory system, with new ways of counting that associates need to be trained on, and new quality metrics for stores to be measured on. But if it works, thousands of bananas will find a home so it's obviously worth it.
+This effort will require changing to a whole new inventory system, just for bananas, that than connects to the main inventory system, with new ways of counting that associates need to be trained on, and new quality metrics for stores to be measured on. But if it works, thousands of bananas will find a home so it's obviously worth it.
 
-This example might seem ludicrous, but I've seen __very__ similar ones take months of eng work to then get fixed, only to then experience delays because someone realised too late that the procurement system has to be able to place orders for both singles AND bunches of bananas, while still producing a total banana count.
+This example might seem ludicrous, but I've seen __very__ similar ones take months of eng work to then get close to launching, only to then experience delays because someone realised too late that the procurement system has to be able to place orders for both singles AND bunches of bananas, while still producing a total banana count.
 
 Most of the risk in integrations like these often required figuring out what the fundamental differences in operations were so you could plan for, manage, and communicate them -- these were almost always double-edged swords where the operational reason the new software would be painful for the organisation to use was also the business reason that you were switching to it (e.g. selling single bananas is better for consumers but managing it is a pain).
 
